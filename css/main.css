@@ -1,0 +1,49 @@
+@charset "utf-8";
+/* CSS Document */
+*{
+	margin: 0;
+	padding: 0;
+}
+.khung{
+	/* Permalink - use to edit and share this gradient: https://colorzilla.com/gradient-editor/#f9ee54+0,bc742b+100 */
+background: rgb(249,238,84); /* Old browsers */
+background: -moz-linear-gradient(top,  rgba(249,238,84,1) 0%, rgba(188,116,43,1) 100%); /* FF3.6-15 */
+background: -webkit-linear-gradient(top,  rgba(249,238,84,1) 0%,rgba(188,116,43,1) 100%); /* Chrome10-25,Safari5.1-6 */
+background: linear-gradient(to bottom,  rgba(249,238,84,1) 0%,rgba(188,116,43,1) 100%); /* W3C, IE10+, FF16+, Chrome26+, Opera12+, Safari7+ */
+filter: progid:DXImageTransform.Microsoft.gradient( startColorstr='#f9ee54', endColorstr='#bc742b',GradientType=0 ); /* IE6-9 */
+
+}
+.logo{
+	height: 100px;
+/*	background-color: #DBAB66;*/
+	position: fixed;
+	z-index: 99;
+}
+.navbar{
+	height: 100px;
+/*	background-color: #E0CA88;*/
+}
+.menu{
+	height: 100px;
+/*	background-color: #A2771A;*/
+}
+.slider{
+	height: 600px;
+	background-color: #AF9063;
+}
+.cot{
+	height: 200px;
+	background-color: #E4DB85;
+	border: 1px #FFFFFF solid;
+	margin-right: 60px;
+}
+.trang3{
+	height: 500px;
+	background-color: #AA6623;
+}
+.cot1{
+	height: 200px;
+	background-color: #D4A686;
+	border: 1px #FFFFFF solid;
+	margin: 40px;
+}
